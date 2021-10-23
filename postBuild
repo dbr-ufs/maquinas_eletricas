@@ -1,1 +1,2 @@
+sudo -E pip install nbgitpuller
 sudo jupyter serverextension enable --py nbgitpuller --sys-prefix
